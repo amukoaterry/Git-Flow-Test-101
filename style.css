@@ -1,57 +1,3 @@
-.Main-Wrapper{
-    border: 2px solid gray;
-    margin: 50px;
-    background-color: grey;
-
-}
-#Nav1{
-    text-decoration: none;
-    color: black;
-}
-
-
-#content{
-    border: 2px solid white;
-    margin-top: 4%;
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-bottom: 4%;
-    height: 1115px;
-    border-radius: 15px;
-    background-color: antiquewhite;
-    
-}
-
-#links{
-    float: right;
-
-}
-#button{
-    background-color:yellow;
-    color: black;
-    width: 90px;
-    height: 50px;
-    border-radius: 5px;
-
-}
-#container{
-    
-    display: flex;
-    height: 300px;
-    width: 1050px;
-    background-color: antiquewhite;
-  padding: 15%;
-}
-.section1{
-    margin-right: 5%;
-    float: right;
-}
-.section2{
-    float: left;
-}
-.section3{
-float: left;
-}
 .container{
     height: 70px;
     width: 90%;
@@ -63,9 +9,8 @@ float: left;
     border-radius: 5px;
     text-align: bottom;
     padding: 130px 80px 150px 75px;
-    
-    
     position: relative;
+    
     
     
 
